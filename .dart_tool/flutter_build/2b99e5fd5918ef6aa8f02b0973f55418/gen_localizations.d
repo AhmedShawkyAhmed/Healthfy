@@ -1,0 +1,1 @@
+ F:\\work\\magdsoft\\healthfy\\.dart_tool\\flutter_gen\\gen_l10n\\app_localizations_ar.dart F:\\work\\magdsoft\\healthfy\\.dart_tool\\flutter_gen\\gen_l10n\\app_localizations.dart:  F:\\work\\magdsoft\\healthfy\\l10n.yaml F:\\work\\magdsoft\\healthfy\\lib/src/localization/l10n\\app_ar.arb

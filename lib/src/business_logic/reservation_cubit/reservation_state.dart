@@ -1,0 +1,42 @@
+part of 'reservation_cubit.dart';
+
+@immutable
+abstract class ReservationState {}
+
+class ReservationInitial extends ReservationState {}
+
+class ReservationGetServicesWithDiscountLoadingState extends ReservationState{}
+class ReservationGetServicesWithDiscountSuccessState extends ReservationState{}
+class ReservationGetServicesWithDiscountFailureState extends ReservationState{}
+
+class ReservationLoadingState extends ReservationState{}
+class ReservationSuccessState extends ReservationState{}
+class ReservationFailureState extends ReservationState{}
+
+class ReservationGetMyReservationLoadingState extends ReservationState{}
+class ReservationGetMyReservationSuccessState extends ReservationState{}
+class ReservationGetMyReservationFailureState extends ReservationState{}
+
+class ReservationGetWaitingMyReservationLoadingState extends ReservationState{}
+class ReservationGetWaitingMyReservationSuccessState extends ReservationState{}
+class ReservationGetWaitingMyReservationFailureState extends ReservationState{}
+
+class ReservationGetEndedMyReservationLoadingState extends ReservationState{}
+class ReservationGetEndedMyReservationSuccessState extends ReservationState{}
+class ReservationGetEndedMyReservationFailureState extends ReservationState{}
+
+class ReservationConfirmReservationLoadingState extends ReservationState{}
+class ReservationConfirmReservationSuccessState extends ReservationState{
+  final String? paymentUrl;
+
+  ReservationConfirmReservationSuccessState({this.paymentUrl});
+}
+class ReservationConfirmReservationFailureState extends ReservationState{}
+
+class ReservationCancelReservationLoadingState extends ReservationState{}
+class ReservationCancelReservationSuccessState extends ReservationState{}
+class ReservationCancelReservationFailureState extends ReservationState{}
+
+class ReservationStoreAdditionalServicesLoadingState extends ReservationState{}
+class ReservationStoreAdditionalServicesSuccessState extends ReservationState{}
+class ReservationStoreAdditionalServicesFailureState extends ReservationState{}

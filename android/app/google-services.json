@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1069182136744",
+    "project_id": "healthify-f41ba",
+    "storage_bucket": "healthify-f41ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069182136744:android:ddb90a35be65c53ee2ad9d",
+        "android_client_info": {
+          "package_name": "com.magdsoft.healthify_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069182136744-fjcgmd8a38dpssi67hm6omork21t56gg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwn318mdftOTv-qmbS32UNihEImxQneyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069182136744-fjcgmd8a38dpssi67hm6omork21t56gg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1069182136744-kvtf18bkq0g9k594huttcgo61qg9mm20.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.magdsoft.healthify"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069182136744:android:15d038ab1f1652f8e2ad9d",
+        "android_client_info": {
+          "package_name": "com.sihatukTuhumuna.sihatukTuhumuna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069182136744-fjcgmd8a38dpssi67hm6omork21t56gg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwn318mdftOTv-qmbS32UNihEImxQneyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069182136744-fjcgmd8a38dpssi67hm6omork21t56gg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1069182136744-kvtf18bkq0g9k594huttcgo61qg9mm20.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.magdsoft.healthify"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

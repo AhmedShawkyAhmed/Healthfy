@@ -1,0 +1,1 @@
+ F:\\work\\magdsoft\\healthfy\\.dart_tool\\flutter_build\\2b99e5fd5918ef6aa8f02b0973f55418\\native_assets.yaml: 
